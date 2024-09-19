@@ -1,0 +1,13 @@
+.d1{
+    background-color: blue;
+    padding:10px;
+
+}
+.d2{
+    text-align: center;
+}
+.d3{
+    display: flex;
+    justify-content: center;
+
+}
